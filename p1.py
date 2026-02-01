@@ -1,1 +1,1 @@
-print("megacore INSERT")
+print("megacore UPDATE")
